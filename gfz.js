@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-^https:\/\/mp\.gongfuzhe\.com\/api\/(course\/courseDetail) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/ghsx.js
+^https:\/\/mp\.gongfuzhe\.com\/api\/(course\/courseDetail) url script-response-body https://raw.githubusercontent.com/GuyCui/Rewrite/main/gfz.js
 
 [mitm]
 hostname = mp.gongfuzhe.com
